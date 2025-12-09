@@ -1,0 +1,11 @@
+body{
+    background-image: url("bg.webp");
+}
+
+li{
+    color:black
+}
+
+.container{
+    border-radius: 50px;
+}
